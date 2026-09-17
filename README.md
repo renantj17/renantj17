@@ -8,7 +8,8 @@ Seja bem vindo
 ## Sobre mim!
 
 Sou um rapaz de vinte anos com o objetivo de me tornar um 
-futuro analista de dados
+futuro analista de dados, no momento estou cursando ANALISE E DESENVOLVIMENTO
+DE SISTEMAS, na Universidade Cruzeiro do Sul.
 
 
 <!--
