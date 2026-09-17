@@ -13,9 +13,11 @@ DE SISTEMAS, na Universidade Cruzeiro do Sul.
 
 ## Minhas Habilidades
 
- [![My Skills](https://skillicons.dev/icons?i=git,github,visualstudio,eclipse)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=git,github,,)](https://skillicons.dev)
 - Desenvolvimento Web:
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+- Aprendendo
 
 <!--
 **renantj17/renantj17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
