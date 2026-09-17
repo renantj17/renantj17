@@ -11,6 +11,11 @@ Sou um rapaz de vinte anos com o objetivo de me tornar um
 futuro analista de dados, no momento estou cursando ANALISE E DESENVOLVIMENTO
 DE SISTEMAS, na Universidade Cruzeiro do Sul.
 
+## Minhas Habilidades
+
+[![My Skills](https://skillicons.dev/icons?i=java,javascript,python)](https://skillicons.dev)
+- Frameworks e Bibliotecas:
+
 
 <!--
 **renantj17/renantj17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
