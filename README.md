@@ -13,8 +13,8 @@ DE SISTEMAS, na Universidade Cruzeiro do Sul.
 
 ## Minhas Habilidades
 
-[![My Skills](https://skillicons.dev/icons?i=java,javascript,python)](https://skillicons.dev)
-- Frameworks e Bibliotecas:
+ [![My Skills](https://skillicons.dev/icons?i=git,github,visualstudio,eclipse)](https://skillicons.dev)
+- Desenvolvimento Web:
 
 
 <!--
