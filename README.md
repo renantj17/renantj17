@@ -23,7 +23,7 @@ DE SISTEMAS, na Universidade Cruzeiro do Sul.
 
 ## Entre em Contato
 
--  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)] (https://www.linkedin.com/in/renan-henrique-679661325/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renan-henrique-679661325/)
 <!--
 **renantj17/renantj17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
