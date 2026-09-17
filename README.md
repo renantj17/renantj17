@@ -13,10 +13,12 @@ DE SISTEMAS, na Universidade Cruzeiro do Sul.
 
 ## Minhas Habilidades
 
+##Versionamento de código.
+
  [![My Skills](https://skillicons.dev/icons?i=git,github,,)](https://skillicons.dev)
 - Desenvolvimento Web:
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,)](https://skillicons.dev)
 - Aprendendo
 
 <!--
