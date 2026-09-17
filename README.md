@@ -5,8 +5,6 @@
 
 Seja bem vindo
 # Muito prazer, meu nome é Renan Henrique. 
-# Sou um futuro Analista de Dados.
-
 
 ## Sobre mim!
 
